@@ -14,14 +14,14 @@
 
 ## ロット自動計算
 
-<span style="color: red; ">gif動画挿入</span>
+<!-- <span style="color: red; ">gif動画挿入</span> -->
 
 設定で「基準獲得pips」と「利率」を設定するとこの2つの要素と現在の残高をもとに適正ロット数を計算し、左下の「Buy」、「Sell」をクリックするとロットを自動設定した状態のポジションを発注する
 
 
 ## 連続エントリー
 
-<span style="color: red; ">gif動画挿入</span>
+<!-- <span style="color: red; ">gif動画挿入</span> -->
 
 
 設定のところで「連続エントリー数」を設定し、「Buy 〇」、「sell 〇」をクリックすると〇回分表記された方向にポジションを発注してくれる。
@@ -30,19 +30,19 @@
 
 ## 自動決済機能
 
-<span style="color: red; ">gif動画挿入</span>
+<!-- <span style="color: red; ">gif動画挿入</span> -->
 
 設定で「自動決済機能」をtrue, 「自動決済基準[pips]」を決めておくと保有中のポジション合計が基準以上になったときに自動で全決済してくれるという機能である。
 
 ## limit & stop変更機能
 
-<span style="color: red; ">gif動画挿入</span>
+<!-- <span style="color: red; ">gif動画挿入</span> -->
 
 設定で「指値pips」と「逆指値pips」を設定して左下の「Limit Stop」ボタンをクリックすると保有中のポジションの指値と逆指値を自動で設定した値に変更してくれる
 
 ## トレード情報の可視化
 
-<span style="color: red; ">gif動画挿入 or 画像</span>
+<!-- <span style="color: red; ">gif動画挿入 or 画像</span> -->
 
 次エントリーするときのロット数(右側)と設定中の利率、基準Pipsから算出されるロット数(左側)
 
